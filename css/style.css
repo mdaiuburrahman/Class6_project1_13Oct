@@ -50,7 +50,9 @@ header{
     margin: 0 20px;
     display: inline-block;
 }
-
+.menu ul li a:hover{
+   color: #87ceeb
+}
 .menu ul li:last-child a{
     margin-right: 0;
 }
